@@ -16,7 +16,7 @@ JAX is an open-source library developed by Google Research for high-performance 
 
 ## Installation
 
-You can install JAX via pip based on required version:
+You can install JAX via pip and also based on your required version:
 
 ```bash
 pip install jax jaxlib
